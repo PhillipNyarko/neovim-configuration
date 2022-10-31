@@ -1,0 +1,5 @@
+require("phillip.plugins-setup")
+require("phillip.core.options")
+require("phillip.core.keymaps")
+require("phillip.core.colorscheme")
+require("phillip.plugins.comment")
